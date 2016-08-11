@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fontstatic.useso.com/s/arimo/v9/wZLYhRRxZWGToTRP78bqJQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fontstatic.useso.com/s/arimo/v9/UnXpojilM3XslYxUnWuVe_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
