@@ -61,7 +61,7 @@ h1,h2,h3,h4,h5,h6,label,p{
   text-decoration: none;
   height: 34px;
   width: 34px;
-  background:  url("../images/img-sprite.png") no-repeat -41px -3px;
+  background:  url("http://cdn.ogg-furniture.com/images/img-sprite.png") no-repeat -41px -3px;
   }
 .callbacks_nav.next {
   left: auto;
@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5,h6,label,p{
  }
 /*----*/
 .banner{
-	background:url(../images/banner1.jpg) no-repeat center;
+	background:url(http://cdn.ogg-furniture.com/images/banner1.jpg) no-repeat center;
 	width:100%;
 	min-height:190px;
 	display:block;
@@ -104,7 +104,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 .search input[type="submit"] {	
 	width: 31px;
 	height: 31px;
-	background:#DC483A url(../images/img-sprite.png)no-repeat -5px -5px ;
+	background:#DC483A url(http://cdn.ogg-furniture.com/images/img-sprite.png)no-repeat -5px -5px ;
 	padding: 0px 1px;
 	border: none;
 	cursor: pointer;
@@ -181,10 +181,10 @@ a.read{
 	display:block;
 	font-family: 'Arimo', sans-serif;
 	height: 40px;
-	background:#DC483A url("../images/ar1.png") no-repeat 310px 0px;
+	background:#DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 310px 0px;
 }
 a.read:hover{
-	background:#303030 url("../images/ar.png") no-repeat 310px 0px;
+	background:#303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 310px 0px;
 }
 .middle-grid {
   margin: 20em 0 0;
@@ -282,11 +282,11 @@ a.more{
   display: block;
   font-family: 'Arimo', sans-serif;
   height: 40px;
-  background: #DC483A url("../images/ar1.png") no-repeat 117px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 117px 0px;
   margin: 0.8em 0 0;
 }
 a.more:hover{
-	background:#303030 url("../images/ar.png") no-repeat 117px 0px;
+	background:#303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 117px 0px;
 }
 /*--about-top--*/
 ul.place{
@@ -468,7 +468,7 @@ div#portfoliolist {
 	width:0;
 	height:0;
 	content:"";
-	background:url(../images/plus.png) 50% 50% no-repeat;
+	background:url(http://cdn.ogg-furniture.com/images/plus.png) 50% 50% no-repeat;
 	border-radius:0;
 	z-index:0;
 	-webkit-transition:0.45s;
@@ -484,7 +484,7 @@ div#portfoliolist {
 	margin:0;
 	height:0%;
 	width:200%;
-	background:url(../images/dark.png);
+	background:url(http://cdn.ogg-furniture.com/images/dark.png);
 	content:"";
 	border-radius:0;
 	overflow:hidden;
@@ -726,11 +726,11 @@ ul.start li span{
 	text-align:left;
 	font-family: 'Arimo', sans-serif;
 	height: 40px;
-	background: #DC483A url("../images/ar1.png") no-repeat 85px 0px;
+	background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 85px 0px;
 	margin: 0.8em 0 0;	
 }
 .table-form input[type="submit"]:hover{
-	background: #303030 url("../images/ar.png") no-repeat 85px 0px;
+	background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 85px 0px;
 }
 .table-form span{
 	font-size:1.1em;
@@ -796,11 +796,11 @@ ul.start li span{
 	text-align:left;
 	font-family: 'Arimo', sans-serif;
 	height: 40px;
-	background: #DC483A url("../images/ar1.png") no-repeat 85px 0px;
+	background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 85px 0px;
 	margin: 0.8em 0 0;	
 }
 .contact-left input[type="submit"]:hover{
-	background: #303030 url("../images/ar.png") no-repeat 85px 0px;
+	background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 85px 0px;
 }
 .contact-right p{
 	font-size:1.1em;
@@ -884,7 +884,7 @@ ul.social li{
 ul.social li i{
 	height: 18px;
 	width: 21px;
-	background: url("../images/img-sprite.png") -125px -11px;
+	background: url("http://cdn.ogg-furniture.com/images/img-sprite.png") -125px -11px;
 	display:inline-block;	
 	margin-right: 5px;
 	vertical-align: middle;	
@@ -917,7 +917,7 @@ ul.social-icons li{
 ul.social-icons li a span{
 	height: 32px;
 	width: 32px;
-	background: url("../images/img-sprite.png")-12px -52px;
+	background: url("http://cdn.ogg-furniture.com/images/img-sprite.png")-12px -52px;
 	display: inline-block;
 	margin:0 0.4em 0 0;
 }
@@ -964,10 +964,10 @@ ul.social li.mail a:hover{
 }
 @media(max-width:1024px){
 a.read {
-  background: #DC483A url("../images/ar1.png") no-repeat 243px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 243px 0px;
 }
 a.read:hover {
-  background: #303030 url("../images/ar.png") no-repeat 243px 0px;
+  background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 243px 0px;
 }
 a.more {
   width: 55.5%;
@@ -1045,10 +1045,10 @@ span.menu{
 	display:none;
 }
 a.read {
-  background: #DC483A url("../images/ar1.png") no-repeat 291px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 291px 0px;
 }
 a.read:hover {
-  background: #303030 url("../images/ar.png") no-repeat 291px 0px;
+  background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 291px 0px;
 }
 a.more {
   width: 22.7%;
@@ -1126,10 +1126,10 @@ a.more-in {
   padding: 0.5em;
 }
 a.read {
-  background: #DC483A url("../images/ar1.png") no-repeat 225px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 225px 0px;
 }
 a.read:hover {
-  background: #303030 url("../images/ar.png") no-repeat 225px 0px;
+  background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 225px 0px;
 }
 .middle-grid {
   margin: 16em 0 0;
@@ -1189,10 +1189,10 @@ a.more-in {
     padding: 2em 0em 0;
 }
 a.read {
-  background: #DC483A url("../images/ar1.png") no-repeat 145px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 145px 0px;
 }
 a.read:hover {
-  background: #303030 url("../images/ar.png") no-repeat 145px 0px;
+  background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 145px 0px;
 }
 a.more {
   width: 39%;
@@ -1274,14 +1274,14 @@ ul.start li a,ul.start li span {
   padding: 0.4em 0.8em 0;
 }
 a.read {
-  background: #DC483A url("../images/ar1.png") no-repeat 181px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 181px 0px;
   background-size: 30px;
   font-size: 1em;
   padding: 0.3em 1em;
   height:30px;
 }
 a.read:hover {
-  background: #DC483A url("../images/ar1.png") no-repeat 181px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 181px 0px;
 }
 .header-top {
   margin-top: 0em;
@@ -1297,7 +1297,7 @@ a.read:hover {
   padding: 0em 0em 1em;
 }
 a.more {
-  background: #DC483A url("../images/ar1.png") no-repeat 94px 0px;
+  background: #DC483A url("http://cdn.ogg-furniture.com/images/ar1.png") no-repeat 94px 0px;
   background-size: 30px;
   font-size: 1em;
   padding: 0.3em 1em;
@@ -1305,7 +1305,7 @@ a.more {
     width: 46%;
 }
 a.more:hover {
-  background: #303030 url("../images/ar.png") no-repeat 94px 0px;
+  background: #303030 url("http://cdn.ogg-furniture.com/images/ar.png") no-repeat 94px 0px;
 	 background-size: 30px;
   }
 p.sed{
